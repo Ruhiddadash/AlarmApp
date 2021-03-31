@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\AlarmApp\bin\Debug\AlarmApp.exe.config
+C:\Users\ASUS\source\repos\AlarmApp\bin\Debug\AlarmApp.exe
+C:\Users\ASUS\source\repos\AlarmApp\bin\Debug\AlarmApp.pdb
+C:\Users\ASUS\source\repos\AlarmApp\obj\Debug\AlarmApp.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\AlarmApp\obj\Debug\AlarmApp.Main.resources
+C:\Users\ASUS\source\repos\AlarmApp\obj\Debug\AlarmApp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\AlarmApp\obj\Debug\AlarmApp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\AlarmApp\obj\Debug\AlarmApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AlarmApp\obj\Debug\AlarmApp.exe
+C:\Users\ASUS\source\repos\AlarmApp\obj\Debug\AlarmApp.pdb
